@@ -48,3 +48,5 @@ let g:pymode_options_indent = 1
 " filetype plugin indent on
 " syntax on
 " autocmd BufWritePre *.py normal m`:%s/\s\+$//e``
+
+au FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
