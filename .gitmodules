@@ -16,6 +16,3 @@
 [submodule "bundle/DeleteTrailingWhitespace"]
 	path = bundle/DeleteTrailingWhitespace
 	url = https://github.com/vim-scripts/DeleteTrailingWhitespace.git
-[submodule "bundle/vim-surround"]
-	path = bundle/vim-surround
-	url = https://github.com/tpope/vim-surround.git
