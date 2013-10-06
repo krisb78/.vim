@@ -16,3 +16,6 @@
 [submodule "bundle/DeleteTrailingWhitespace"]
 	path = bundle/DeleteTrailingWhitespace
 	url = https://github.com/vim-scripts/DeleteTrailingWhitespace.git
+[submodule "bundle/vim-puppet"]
+	path = bundle/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
