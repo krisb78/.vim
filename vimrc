@@ -32,6 +32,8 @@ autocmd FileType xml set omnifunc=xmlcomplete#CompleteTags
 autocmd FileType php set omnifunc=phpcomplete#CompletePHP
 autocmd FileType c set omnifunc=ccomplete#Complete
 
+autocmd bufreadpre COMMIT_EDITMSG setlocal textwidth=72
+
 match ErrorMsg '\%>80v.\+'
 set colorcolumn=80
 set transparency=5

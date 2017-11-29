@@ -25,3 +25,9 @@
 [submodule "bundle/vim-golang"]
 	path = bundle/vim-golang
 	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "bundle/align"]
+	path = bundle/align
+	url = https://github.com/vim-scripts/Align.git
+[submodule "bundle/sqlutilities"]
+	path = bundle/sqlutilities
+	url = https://github.com/vim-scripts/SQLUtilities.git
